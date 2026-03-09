@@ -1,9 +1,10 @@
 ## Hi there 👋 It's me SureshKumar
 
-Software Engineer
+Software Engineer || AI + Full-Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Engineeing at [<img width="421" height="120" alt="image" src="https://sece.ac.in/wp-content/uploads/2024/05/clg-logo2-scaled.webp" />](https://sece.ac.in/),
+- Engineeing at
+- [<img width="421" height="120" alt="image" src="https://sece.ac.in/wp-content/uploads/2024/05/clg-logo2-scaled.webp" />](https://sece.ac.in/),
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suresh-kumar-b73008334/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/itzsuresh.46/)
 
