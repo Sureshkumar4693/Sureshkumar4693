@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me SureshKumar
 
-Software Engineer || AI + Full-Stack Developer
+AI + Full-Stack Developer
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsZHJkZG1oN280b291eWdmd2VlbGQxa3hqejBzNm1qOWVkMG12MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - Engineeing at <br/> [<img width="200" height="55" alt="image" src="https://media.licdn.com/dms/image/v2/D4E16AQFjYEAHxFgMgw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1667026445592?e=2147483647&v=beta&t=98hIowAlh5RIzYTwvP0Cc5VUxdcTSJGHgpRwHKtQG5A" />](https://sece.ac.in/) 
