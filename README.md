@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me SureshKumar
-
+ 
 AI + Full-Stack Developer
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsZHJkZG1oN280b291eWdmd2VlbGQxa3hqejBzNm1qOWVkMG12MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
